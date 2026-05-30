@@ -1,0 +1,17 @@
+# Specify the exact developer toolkit versions required
+
+# Computer Vision & Machine Learning Core
+opencv-python>=4.8.0
+easyocr>=1.7.1
+torch>=2.1.0
+transformers>=4.35.0
+
+# Schema Validation & Pipeline Architecture
+pydantic>=2.4.2
+pandas>=2.1.1
+pyyaml>=6.0.1
+python-dotenv>=1.0.0
+
+# MLOps Experiment Tracking & Verification
+mlflow>=2.7.1
+pytest>=7.4.2

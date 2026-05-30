@@ -1,0 +1,23 @@
+# ensure your environment, logs, and datasets never leak into public version control.
+
+# Environments
+.venv/
+env/
+venv/
+.env
+
+# PyCharm/IDE items
+.idea/
+*.suo
+*.ntvs*
+
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Data and Experiment tracking
+data/inbound_pallet_scans/
+data/drift_quarantine/
+mlruns/
