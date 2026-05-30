@@ -1,0 +1,23 @@
+# Ignore local virtual environments and system caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+.DS_Store
+
+# Ignore GitHub-specific automation pipelines
+.github/
+workflows/
+
+# Ignore local tests (Hugging Face only needs to run app.py, not the test suites)
+tests/
+
+# Ignore local data directories and mock databases
+data/
+
+# Block local MLflow execution databases
+mlflow.db
+mlflow/
+mlruns/
