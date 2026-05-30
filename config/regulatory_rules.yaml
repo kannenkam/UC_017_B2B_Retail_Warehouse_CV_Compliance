@@ -1,0 +1,15 @@
+# Metro B2B Inbound Warehouse Regulatory Configuration Matrix
+DE:
+  required_languages: ["de", "en"]
+  allergen_formatting: "markdown_bold"
+  min_shelf_life_days: 90
+
+FR:
+  required_languages: ["fr", "en"]
+  allergen_formatting: "markdown_bold"
+  min_shelf_life_days: 90
+
+PL:
+  required_languages: ["pl", "en"]
+  allergen_formatting: "markdown_bold"
+  min_shelf_life_days: 120  # Strict buffer threshold for Polish regional distribution centers

@@ -15,3 +15,5 @@ python-dotenv>=1.0.0
 # MLOps Experiment Tracking & Verification
 mlflow>=2.7.1
 pytest>=7.4.2
+psutil
+

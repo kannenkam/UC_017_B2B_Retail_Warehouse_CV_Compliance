@@ -1,0 +1,2535 @@
+[
+    {
+        "image_id": "400222100000",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9825",
+        "batch_lot_number": "LOT-2026-X36",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Fine Life Chopped Tomatoes. Składniki: Woda, Milch, **Soja**, Sól. Najlepiej spożyć przed: 05.11.2026."
+    },
+    {
+        "image_id": "400222100001",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5243",
+        "batch_lot_number": "LOT-2026-X55",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Whole Milk. Składniki: Woda, **Soja**, Sól. Najlepiej spożyć przed: 20.09.2026."
+    },
+    {
+        "image_id": "400222100002",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7847",
+        "batch_lot_number": "LOT-2026-X41",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, **Ei**, Sól. Najlepiej spożyć przed: 27.10.2026."
+    },
+    {
+        "image_id": "400222100003",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5885",
+        "batch_lot_number": "LOT-2026-X17",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, Ei, **Milch**, Sól. Najlepiej spożyć przed: 14.10.2026."
+    },
+    {
+        "image_id": "400222100004",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8842",
+        "batch_lot_number": "LOT-2026-X55",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: RIOBA Espresso Beans. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 21.11.2026."
+    },
+    {
+        "image_id": "400222100005",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9753",
+        "batch_lot_number": "LOT-2026-X60",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Fine Life Chopped Tomatoes. Składniki: Woda, **Nüsse**, Soja, Sól. Najlepiej spożyć przed: 09.11.2026."
+    },
+    {
+        "image_id": "400222100006",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5405",
+        "batch_lot_number": "LOT-2026-X46",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Fine Life Chopped Tomatoes. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 26.09.2026."
+    },
+    {
+        "image_id": "400222100007",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-9106",
+        "batch_lot_number": "LOT-2026-X54",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: RIOBA Espresso Beans. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 07.09.2026."
+    },
+    {
+        "image_id": "400222100008",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-8572",
+        "batch_lot_number": "LOT-2026-X58",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Cream Cheese. Zutaten: Wasser, **Nüsse**, Salz. Mindestens haltbar bis: 10.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100009",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6541",
+        "batch_lot_number": "LOT-2026-X10",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 17.06.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100010",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-9248",
+        "batch_lot_number": "LOT-2026-X94",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: RIOBA Espresso Beans. Ingrédients: Eau, **Nüsse**, Sel. À consommer de préférence avant le: 29.10.2026."
+    },
+    {
+        "image_id": "400222100011",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7101",
+        "batch_lot_number": "LOT-2026-X44",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Cream Cheese. Składniki: Woda, **Ei**, Sól. Najlepiej spożyć przed: 04.07.2026."
+    },
+    {
+        "image_id": "400222100012",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6471",
+        "batch_lot_number": "LOT-2026-X77",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, Gluten, **Nüsse**, Salz. Mindestens haltbar bis: 05.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100013",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6887",
+        "batch_lot_number": "LOT-2026-X49",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, Gluten, Sel. À consommer de préférence avant le: 18.06.2026."
+    },
+    {
+        "image_id": "400222100014",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8388",
+        "batch_lot_number": "LOT-2026-X33",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Premium Basmati Rice. Ingrédients: Eau, **Ei**, Sel. À consommer de préférence avant le: 20.09.2026."
+    },
+    {
+        "image_id": "400222100015",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5404",
+        "batch_lot_number": "LOT-2026-X89",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: RIOBA Espresso Beans. Zutaten: Wasser, **Gluten**, Salz. Mindestens haltbar bis: 01.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100016",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8484",
+        "batch_lot_number": "LOT-2026-X93",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Fine Life Chopped Tomatoes. Ingrédients: Eau, **Nüsse**, Sel. À consommer de préférence avant le: 04.06.2026."
+    },
+    {
+        "image_id": "400222100017",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8474",
+        "batch_lot_number": "LOT-2026-X99",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch",
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, Milch, **Ei**, Sel. À consommer de préférence avant le: 18.10.2026."
+    },
+    {
+        "image_id": "400222100018",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7886",
+        "batch_lot_number": "LOT-2026-X91",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, **Ei**, Sól. Najlepiej spożyć przed: 16.09.2026."
+    },
+    {
+        "image_id": "400222100019",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7001",
+        "batch_lot_number": "LOT-2026-X64",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, Ei, Sel. À consommer de préférence avant le: 11.06.2026."
+    },
+    {
+        "image_id": "400222100020",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-7614",
+        "batch_lot_number": "LOT-2026-X31",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 24.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100021",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6446",
+        "batch_lot_number": "LOT-2026-X91",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Fine Life Chopped Tomatoes. Ingrédients: Eau, **Ei**, Gluten, Sel. À consommer de préférence avant le: 19.11.2026."
+    },
+    {
+        "image_id": "400222100022",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-9052",
+        "batch_lot_number": "LOT-2026-X58",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: RIOBA Espresso Beans. Zutaten: Wasser, **Gluten**, **Ei**, Salz. Mindestens haltbar bis: 16.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100023",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-9424",
+        "batch_lot_number": "LOT-2026-X94",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, Milch, **Gluten**, Sel. À consommer de préférence avant le: 12.07.2026."
+    },
+    {
+        "image_id": "400222100024",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-7046",
+        "batch_lot_number": "LOT-2026-X99",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: RIOBA Espresso Beans. Zutaten: Wasser, **Gluten**, Salz. Mindestens haltbar bis: 20.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100025",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5203",
+        "batch_lot_number": "LOT-2026-X43",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: RIOBA Espresso Beans. Zutaten: Wasser, **Nüsse**, Salz. Mindestens haltbar bis: 14.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100026",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-8629",
+        "batch_lot_number": "LOT-2026-X69",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, **Gluten**, Salz. Mindestens haltbar bis: 12.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100027",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-7371",
+        "batch_lot_number": "LOT-2026-X81",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Cream Cheese. Zutaten: Wasser, **Gluten**, Salz. Mindestens haltbar bis: 22.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100028",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5165",
+        "batch_lot_number": "LOT-2026-X92",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: RIOBA Espresso Beans. Zutaten: Wasser, **Nüsse**, **Soja**, Salz. Mindestens haltbar bis: 14.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100029",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6223",
+        "batch_lot_number": "LOT-2026-X68",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Frozen Atlantic Salmon. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 10.09.2026."
+    },
+    {
+        "image_id": "400222100030",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8140",
+        "batch_lot_number": "LOT-2026-X58",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Whole Milk. Składniki: Woda, Milch, Sól. Najlepiej spożyć przed: 22.09.2026."
+    },
+    {
+        "image_id": "400222100031",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6976",
+        "batch_lot_number": "LOT-2026-X92",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, **Gluten**, **Soja**, Salz. Mindestens haltbar bis: 01.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100032",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5263",
+        "batch_lot_number": "LOT-2026-X72",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Premium Basmati Rice. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 10.11.2026."
+    },
+    {
+        "image_id": "400222100033",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-7244",
+        "batch_lot_number": "LOT-2026-X18",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, **Ei**, **Soja**, Salz. Mindestens haltbar bis: 06.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100034",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-8175",
+        "batch_lot_number": "LOT-2026-X75",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Cream Cheese. Zutaten: Wasser, **Nüsse**, Salz. Mindestens haltbar bis: 13.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100035",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9434",
+        "batch_lot_number": "LOT-2026-X83",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: RIOBA Espresso Beans. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 30.10.2026."
+    },
+    {
+        "image_id": "400222100036",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5829",
+        "batch_lot_number": "LOT-2026-X35",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Premium Basmati Rice. Ingrédients: Eau, **Soja**, Sel. À consommer de préférence avant le: 11.09.2026."
+    },
+    {
+        "image_id": "400222100037",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6225",
+        "batch_lot_number": "LOT-2026-X79",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: RIOBA Espresso Beans. Zutaten: Wasser, **Gluten**, Salz. Mindestens haltbar bis: 21.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100038",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5504",
+        "batch_lot_number": "LOT-2026-X45",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: RIOBA Espresso Beans. Ingrédients: Eau, **Nüsse**, **Gluten**, Sel. À consommer de préférence avant le: 09.10.2026."
+    },
+    {
+        "image_id": "400222100039",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-9219",
+        "batch_lot_number": "LOT-2026-X94",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, **Gluten**, **Ei**, Salz. Mindestens haltbar bis: 02.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100040",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8199",
+        "batch_lot_number": "LOT-2026-X16",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja",
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Cream Cheese. Ingrédients: Eau, **Soja**, **Milch**, Sel. À consommer de préférence avant le: 07.06.2026."
+    },
+    {
+        "image_id": "400222100041",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5322",
+        "batch_lot_number": "LOT-2026-X50",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, **Gluten**, **Nüsse**, Salz. Mindestens haltbar bis: 24.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100042",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7034",
+        "batch_lot_number": "LOT-2026-X69",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: RIOBA Espresso Beans. Ingrédients: Eau, **Milch**, Sel. À consommer de préférence avant le: 13.11.2026."
+    },
+    {
+        "image_id": "400222100043",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7548",
+        "batch_lot_number": "LOT-2026-X52",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: RIOBA Espresso Beans. Składniki: Woda, **Milch**, Soja, Sól. Najlepiej spożyć przed: 24.10.2026."
+    },
+    {
+        "image_id": "400222100044",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7419",
+        "batch_lot_number": "LOT-2026-X30",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 30.09.2026."
+    },
+    {
+        "image_id": "400222100045",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9435",
+        "batch_lot_number": "LOT-2026-X38",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Whole Milk. Składniki: Woda, **Ei**, Sól. Najlepiej spożyć przed: 13.09.2026."
+    },
+    {
+        "image_id": "400222100046",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5779",
+        "batch_lot_number": "LOT-2026-X47",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Fine Life Chopped Tomatoes. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 28.10.2026."
+    },
+    {
+        "image_id": "400222100047",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-6196",
+        "batch_lot_number": "LOT-2026-X74",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: RIOBA Espresso Beans. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 20.10.2026."
+    },
+    {
+        "image_id": "400222100048",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9897",
+        "batch_lot_number": "LOT-2026-X40",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Cream Cheese. Składniki: Woda, **Milch**, **Gluten**, Sól. Najlepiej spożyć przed: 15.09.2026."
+    },
+    {
+        "image_id": "400222100049",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7382",
+        "batch_lot_number": "LOT-2026-X59",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Frozen Atlantic Salmon. Ingrédients: Eau, Gluten, Sel. À consommer de préférence avant le: 01.11.2026."
+    },
+    {
+        "image_id": "400222100050",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-9193",
+        "batch_lot_number": "LOT-2026-X34",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Premium Basmati Rice. Zutaten: Wasser, **Ei**, **Gluten**, Salz. Mindestens haltbar bis: 06.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100051",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8313",
+        "batch_lot_number": "LOT-2026-X22",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse",
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Whole Milk. Składniki: Woda, **Nüsse**, **Ei**, Sól. Najlepiej spożyć przed: 02.10.2026."
+    },
+    {
+        "image_id": "400222100052",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9304",
+        "batch_lot_number": "LOT-2026-X12",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 19.10.2026."
+    },
+    {
+        "image_id": "400222100053",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8866",
+        "batch_lot_number": "LOT-2026-X29",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: RIOBA Espresso Beans. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 20.09.2026."
+    },
+    {
+        "image_id": "400222100054",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6449",
+        "batch_lot_number": "LOT-2026-X62",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 10.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100055",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9516",
+        "batch_lot_number": "LOT-2026-X49",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, **Ei**, Sól. Najlepiej spożyć przed: 09.11.2026."
+    },
+    {
+        "image_id": "400222100056",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7953",
+        "batch_lot_number": "LOT-2026-X98",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Premium Basmati Rice. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 05.09.2026."
+    },
+    {
+        "image_id": "400222100057",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8007",
+        "batch_lot_number": "LOT-2026-X42",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 09.06.2026."
+    },
+    {
+        "image_id": "400222100058",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-7661",
+        "batch_lot_number": "LOT-2026-X44",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 22.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100059",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5347",
+        "batch_lot_number": "LOT-2026-X78",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Cream Cheese. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 31.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100060",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6545",
+        "batch_lot_number": "LOT-2026-X47",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Premium Basmati Rice. Ingrédients: Eau, **Milch**, Sel. À consommer de préférence avant le: 10.11.2026."
+    },
+    {
+        "image_id": "400222100061",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7798",
+        "batch_lot_number": "LOT-2026-X47",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Cream Cheese. Ingrédients: Eau, **Ei**, Sel. À consommer de préférence avant le: 23.11.2026."
+    },
+    {
+        "image_id": "400222100062",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5915",
+        "batch_lot_number": "LOT-2026-X11",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja",
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Cream Cheese. Składniki: Woda, **Soja**, **Nüsse**, Sól. Najlepiej spożyć przed: 18.11.2026."
+    },
+    {
+        "image_id": "400222100063",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6707",
+        "batch_lot_number": "LOT-2026-X23",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 11.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100064",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-6337",
+        "batch_lot_number": "LOT-2026-X82",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Premium Basmati Rice. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 04.07.2026."
+    },
+    {
+        "image_id": "400222100065",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5720",
+        "batch_lot_number": "LOT-2026-X15",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: RIOBA Espresso Beans. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 07.06.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100066",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7663",
+        "batch_lot_number": "LOT-2026-X40",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, **Soja**, Sól. Najlepiej spożyć przed: 04.10.2026."
+    },
+    {
+        "image_id": "400222100067",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5228",
+        "batch_lot_number": "LOT-2026-X80",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Frozen Atlantic Salmon. Ingrédients: Eau, **Gluten**, Sel. À consommer de préférence avant le: 10.09.2026."
+    },
+    {
+        "image_id": "400222100068",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7001",
+        "batch_lot_number": "LOT-2026-X10",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, **Soja**, Sól. Najlepiej spożyć przed: 22.09.2026."
+    },
+    {
+        "image_id": "400222100069",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6618",
+        "batch_lot_number": "LOT-2026-X60",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: RIOBA Espresso Beans. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 27.09.2026."
+    },
+    {
+        "image_id": "400222100070",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7085",
+        "batch_lot_number": "LOT-2026-X47",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Premium Basmati Rice. Składniki: Woda, **Gluten**, **Soja**, Sól. Najlepiej spożyć przed: 11.10.2026."
+    },
+    {
+        "image_id": "400222100071",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5559",
+        "batch_lot_number": "LOT-2026-X69",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: RIOBA Espresso Beans. Ingrédients: Eau, **Milch**, Sel. À consommer de préférence avant le: 27.10.2026."
+    },
+    {
+        "image_id": "400222100072",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8043",
+        "batch_lot_number": "LOT-2026-X30",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Cream Cheese. Składniki: Woda, **Ei**, **Soja**, Sól. Najlepiej spożyć przed: 12.07.2026."
+    },
+    {
+        "image_id": "400222100073",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7277",
+        "batch_lot_number": "LOT-2026-X91",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Cream Cheese. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 19.09.2026."
+    },
+    {
+        "image_id": "400222100074",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-7465",
+        "batch_lot_number": "LOT-2026-X37",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Premium Basmati Rice. Zutaten: Wasser, **Gluten**, Salz. Mindestens haltbar bis: 18.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100075",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5006",
+        "batch_lot_number": "LOT-2026-X48",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: RIOBA Espresso Beans. Ingrédients: Eau, **Nüsse**, Sel. À consommer de préférence avant le: 27.10.2026."
+    },
+    {
+        "image_id": "400222100076",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5738",
+        "batch_lot_number": "LOT-2026-X80",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: RIOBA Espresso Beans. Składniki: Woda, **Gluten**, Sól. Najlepiej spożyć przed: 21.10.2026."
+    },
+    {
+        "image_id": "400222100077",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9201",
+        "batch_lot_number": "LOT-2026-X41",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, Gluten, Sól. Najlepiej spożyć przed: 02.10.2026."
+    },
+    {
+        "image_id": "400222100078",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8708",
+        "batch_lot_number": "LOT-2026-X73",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Cream Cheese. Składniki: Woda, **Milch**, Sól. Najlepiej spożyć przed: 13.09.2026."
+    },
+    {
+        "image_id": "400222100079",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-8310",
+        "batch_lot_number": "LOT-2026-X26",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Cream Cheese. Zutaten: Wasser, **Milch**, Salz. Mindestens haltbar bis: 01.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100080",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7916",
+        "batch_lot_number": "LOT-2026-X29",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, **Milch**, Sel. À consommer de préférence avant le: 02.10.2026."
+    },
+    {
+        "image_id": "400222100081",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9706",
+        "batch_lot_number": "LOT-2026-X15",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Premium Basmati Rice. Składniki: Woda, **Gluten**, Nüsse, Sól. Najlepiej spożyć przed: 04.09.2026."
+    },
+    {
+        "image_id": "400222100082",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5704",
+        "batch_lot_number": "LOT-2026-X69",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, **Nüsse**, **Gluten**, Sól. Najlepiej spożyć przed: 25.11.2026."
+    },
+    {
+        "image_id": "400222100083",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8469",
+        "batch_lot_number": "LOT-2026-X75",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 26.10.2026."
+    },
+    {
+        "image_id": "400222100084",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7208",
+        "batch_lot_number": "LOT-2026-X91",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: RIOBA Espresso Beans. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 14.10.2026."
+    },
+    {
+        "image_id": "400222100085",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8470",
+        "batch_lot_number": "LOT-2026-X85",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 15.10.2026."
+    },
+    {
+        "image_id": "400222100086",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5567",
+        "batch_lot_number": "LOT-2026-X90",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: RIOBA Espresso Beans. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 18.11.2026."
+    },
+    {
+        "image_id": "400222100087",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5396",
+        "batch_lot_number": "LOT-2026-X84",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Whole Milk. Składniki: Woda, **Ei**, Sól. Najlepiej spożyć przed: 20.09.2026."
+    },
+    {
+        "image_id": "400222100088",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-7309",
+        "batch_lot_number": "LOT-2026-X19",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja",
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Premium Basmati Rice. Zutaten: Wasser, Soja, **Ei**, Salz. Mindestens haltbar bis: 17.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100089",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-9912",
+        "batch_lot_number": "LOT-2026-X49",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Premium Basmati Rice. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 16.10.2026."
+    },
+    {
+        "image_id": "400222100090",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-9359",
+        "batch_lot_number": "LOT-2026-X49",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Premium Basmati Rice. Ingrédients: Eau, **Nüsse**, Sel. À consommer de préférence avant le: 20.10.2026."
+    },
+    {
+        "image_id": "400222100091",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8797",
+        "batch_lot_number": "LOT-2026-X63",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Cream Cheese. Składniki: Woda, **Ei**, **Nüsse**, Sól. Najlepiej spożyć przed: 25.10.2026."
+    },
+    {
+        "image_id": "400222100092",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-7571",
+        "batch_lot_number": "LOT-2026-X60",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: RIOBA Espresso Beans. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 03.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100093",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8987",
+        "batch_lot_number": "LOT-2026-X49",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Fine Life Chopped Tomatoes. Składniki: Woda, **Nüsse**, Sól. Najlepiej spożyć przed: 22.11.2026."
+    },
+    {
+        "image_id": "400222100094",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-9188",
+        "batch_lot_number": "LOT-2026-X99",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 18.09.2026."
+    },
+    {
+        "image_id": "400222100095",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8740",
+        "batch_lot_number": "LOT-2026-X66",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Fine Life Chopped Tomatoes. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 15.11.2026."
+    },
+    {
+        "image_id": "400222100096",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7907",
+        "batch_lot_number": "LOT-2026-X56",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch",
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: RIOBA Espresso Beans. Składniki: Woda, **Milch**, **Ei**, Sól. Najlepiej spożyć przed: 25.11.2026."
+    },
+    {
+        "image_id": "400222100097",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-8612",
+        "batch_lot_number": "LOT-2026-X23",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse",
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, **Nüsse**, **Milch**, Salz. Mindestens haltbar bis: 27.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100098",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6810",
+        "batch_lot_number": "LOT-2026-X28",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Premium Basmati Rice. Zutaten: Wasser, **Nüsse**, Salz. Mindestens haltbar bis: 16.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100099",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6193",
+        "batch_lot_number": "LOT-2026-X18",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Frozen Atlantic Salmon. Ingrédients: Eau, **Ei**, Sel. À consommer de préférence avant le: 26.09.2026."
+    },
+    {
+        "image_id": "400222100100",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6872",
+        "batch_lot_number": "LOT-2026-X28",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Premium Basmati Rice. Zutaten: Wasser, **Milch**, **Gluten**, Salz. Mindestens haltbar bis: 22.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100101",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5062",
+        "batch_lot_number": "LOT-2026-X34",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, Soja, **Gluten**, Salz. Mindestens haltbar bis: 29.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100102",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6699",
+        "batch_lot_number": "LOT-2026-X81",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Fine Life Chopped Tomatoes. Ingrédients: Eau, **Milch**, Sel. À consommer de préférence avant le: 02.11.2026."
+    },
+    {
+        "image_id": "400222100103",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6227",
+        "batch_lot_number": "LOT-2026-X84",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, **Ei**, Sel. À consommer de préférence avant le: 12.06.2026."
+    },
+    {
+        "image_id": "400222100104",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6739",
+        "batch_lot_number": "LOT-2026-X11",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, **Soja**, Sel. À consommer de préférence avant le: 08.10.2026."
+    },
+    {
+        "image_id": "400222100105",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-7619",
+        "batch_lot_number": "LOT-2026-X10",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Cream Cheese. Zutaten: Wasser, **Nüsse**, Salz. Mindestens haltbar bis: 14.06.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100106",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8456",
+        "batch_lot_number": "LOT-2026-X95",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Frozen Atlantic Salmon. Ingrédients: Eau, **Ei**, Sel. À consommer de préférence avant le: 23.10.2026."
+    },
+    {
+        "image_id": "400222100107",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8317",
+        "batch_lot_number": "LOT-2026-X12",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Fine Life Chopped Tomatoes. Ingrédients: Eau, **Soja**, Sel. À consommer de préférence avant le: 09.06.2026."
+    },
+    {
+        "image_id": "400222100108",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6892",
+        "batch_lot_number": "LOT-2026-X77",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, **Soja**, Salz. Mindestens haltbar bis: 03.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100109",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-9160",
+        "batch_lot_number": "LOT-2026-X98",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Cream Cheese. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 14.09.2026."
+    },
+    {
+        "image_id": "400222100110",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7011",
+        "batch_lot_number": "LOT-2026-X32",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Fine Life Chopped Tomatoes. Ingrédients: Eau, **Soja**, Sel. À consommer de préférence avant le: 12.09.2026."
+    },
+    {
+        "image_id": "400222100111",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-8786",
+        "batch_lot_number": "LOT-2026-X12",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, **Gluten**, **Nüsse**, Salz. Mindestens haltbar bis: 13.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100112",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-6938",
+        "batch_lot_number": "LOT-2026-X95",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: RIOBA Espresso Beans. Składniki: Woda, **Gluten**, **Soja**, Sól. Najlepiej spożyć przed: 15.09.2026."
+    },
+    {
+        "image_id": "400222100113",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9591",
+        "batch_lot_number": "LOT-2026-X79",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Premium Basmati Rice. Składniki: Woda, Nüsse, **Soja**, Sól. Najlepiej spożyć przed: 16.10.2026."
+    },
+    {
+        "image_id": "400222100114",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-9626",
+        "batch_lot_number": "LOT-2026-X51",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 14.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100115",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6189",
+        "batch_lot_number": "LOT-2026-X76",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 02.09.2026."
+    },
+    {
+        "image_id": "400222100116",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6842",
+        "batch_lot_number": "LOT-2026-X84",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Premium Basmati Rice. Ingrédients: Eau, **Gluten**, Sel. À consommer de préférence avant le: 12.10.2026."
+    },
+    {
+        "image_id": "400222100117",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7287",
+        "batch_lot_number": "LOT-2026-X11",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Premium Basmati Rice. Składniki: Woda, **Gluten**, Sól. Najlepiej spożyć przed: 04.10.2026."
+    },
+    {
+        "image_id": "400222100118",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9958",
+        "batch_lot_number": "LOT-2026-X15",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Whole Milk. Składniki: Woda, **Gluten**, Sól. Najlepiej spożyć przed: 30.10.2026."
+    },
+    {
+        "image_id": "400222100119",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8642",
+        "batch_lot_number": "LOT-2026-X95",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Frozen Atlantic Salmon. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 11.11.2026."
+    },
+    {
+        "image_id": "400222100120",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5305",
+        "batch_lot_number": "LOT-2026-X72",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Premium Basmati Rice. Ingrédients: Eau, **Milch**, Sel. À consommer de préférence avant le: 31.10.2026."
+    },
+    {
+        "image_id": "400222100121",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6682",
+        "batch_lot_number": "LOT-2026-X95",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, **Milch**, **Gluten**, Salz. Mindestens haltbar bis: 01.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100122",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5188",
+        "batch_lot_number": "LOT-2026-X33",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 28.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100123",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5950",
+        "batch_lot_number": "LOT-2026-X27",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, **Ei**, **Soja**, Salz. Mindestens haltbar bis: 19.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100124",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5185",
+        "batch_lot_number": "LOT-2026-X95",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 12.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100125",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5347",
+        "batch_lot_number": "LOT-2026-X11",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja",
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, **Soja**, **Ei**, Salz. Mindestens haltbar bis: 06.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100126",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-8506",
+        "batch_lot_number": "LOT-2026-X76",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, **Gluten**, **Milch**, Salz. Mindestens haltbar bis: 26.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100127",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6793",
+        "batch_lot_number": "LOT-2026-X17",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 23.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100128",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6672",
+        "batch_lot_number": "LOT-2026-X56",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 18.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100129",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-8136",
+        "batch_lot_number": "LOT-2026-X12",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 14.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100130",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8608",
+        "batch_lot_number": "LOT-2026-X63",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Frozen Atlantic Salmon. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 03.09.2026."
+    },
+    {
+        "image_id": "400222100131",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5149",
+        "batch_lot_number": "LOT-2026-X34",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 01.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100132",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-9880",
+        "batch_lot_number": "LOT-2026-X89",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse",
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Cream Cheese. Zutaten: Wasser, **Nüsse**, **Ei**, Salz. Mindestens haltbar bis: 17.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100133",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8549",
+        "batch_lot_number": "LOT-2026-X38",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Fine Life Chopped Tomatoes. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 14.10.2026."
+    },
+    {
+        "image_id": "400222100134",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-9944",
+        "batch_lot_number": "LOT-2026-X96",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: RIOBA Espresso Beans. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 18.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100135",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8130",
+        "batch_lot_number": "LOT-2026-X27",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja",
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: RIOBA Espresso Beans. Ingrédients: Eau, **Soja**, **Ei**, Sel. À consommer de préférence avant le: 12.10.2026."
+    },
+    {
+        "image_id": "400222100136",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-7065",
+        "batch_lot_number": "LOT-2026-X92",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: RIOBA Espresso Beans. Zutaten: Wasser, **Milch**, Gluten, Salz. Mindestens haltbar bis: 19.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100137",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-9191",
+        "batch_lot_number": "LOT-2026-X48",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 06.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100138",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-9166",
+        "batch_lot_number": "LOT-2026-X20",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, **Milch**, Salz. Mindestens haltbar bis: 09.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100139",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7847",
+        "batch_lot_number": "LOT-2026-X57",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch",
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: RIOBA Espresso Beans. Składniki: Woda, **Milch**, **Ei**, Sól. Najlepiej spożyć przed: 16.10.2026."
+    },
+    {
+        "image_id": "400222100140",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9407",
+        "batch_lot_number": "LOT-2026-X15",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Fine Life Chopped Tomatoes. Składniki: Woda, Gluten, **Nüsse**, Sól. Najlepiej spożyć przed: 11.10.2026."
+    },
+    {
+        "image_id": "400222100141",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8802",
+        "batch_lot_number": "LOT-2026-X62",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja",
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, **Soja**, **Milch**, Sól. Najlepiej spożyć przed: 22.11.2026."
+    },
+    {
+        "image_id": "400222100142",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5457",
+        "batch_lot_number": "LOT-2026-X54",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Cream Cheese. Składniki: Woda, **Ei**, Sól. Najlepiej spożyć przed: 24.09.2026."
+    },
+    {
+        "image_id": "400222100143",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8631",
+        "batch_lot_number": "LOT-2026-X74",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Frozen Atlantic Salmon. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 16.11.2026."
+    },
+    {
+        "image_id": "400222100144",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5355",
+        "batch_lot_number": "LOT-2026-X49",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Cream Cheese. Zutaten: Wasser, **Ei**, Salz. Mindestens haltbar bis: 20.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100145",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8758",
+        "batch_lot_number": "LOT-2026-X47",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Frozen Atlantic Salmon. Ingrédients: Eau, **Nüsse**, Sel. À consommer de préférence avant le: 25.09.2026."
+    },
+    {
+        "image_id": "400222100146",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6207",
+        "batch_lot_number": "LOT-2026-X56",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Cream Cheese. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 05.06.2026."
+    },
+    {
+        "image_id": "400222100147",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-7519",
+        "batch_lot_number": "LOT-2026-X15",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 27.06.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100148",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7515",
+        "batch_lot_number": "LOT-2026-X57",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Premium Basmati Rice. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 03.11.2026."
+    },
+    {
+        "image_id": "400222100149",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6242",
+        "batch_lot_number": "LOT-2026-X98",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Fine Life Chopped Tomatoes. Ingrédients: Eau, **Nüsse**, Sel. À consommer de préférence avant le: 13.11.2026."
+    },
+    {
+        "image_id": "400222100150",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5867",
+        "batch_lot_number": "LOT-2026-X26",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Premium Basmati Rice. Ingrédients: Eau, **Milch**, Sel. À consommer de préférence avant le: 25.09.2026."
+    },
+    {
+        "image_id": "400222100151",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-6516",
+        "batch_lot_number": "LOT-2026-X71",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Fine Life Chopped Tomatoes. Składniki: Woda, **Ei**, **Nüsse**, Sól. Najlepiej spożyć przed: 23.11.2026."
+    },
+    {
+        "image_id": "400222100152",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5612",
+        "batch_lot_number": "LOT-2026-X49",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: RIOBA Espresso Beans. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 10.07.2026."
+    },
+    {
+        "image_id": "400222100153",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-9029",
+        "batch_lot_number": "LOT-2026-X23",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, Milch, Sel. À consommer de préférence avant le: 06.10.2026."
+    },
+    {
+        "image_id": "400222100154",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-8918",
+        "batch_lot_number": "LOT-2026-X97",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, **Soja**, Salz. Mindestens haltbar bis: 20.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100155",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-8626",
+        "batch_lot_number": "LOT-2026-X44",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Cream Cheese. Zutaten: Wasser, **Gluten**, Salz. Mindestens haltbar bis: 17.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100156",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-8355",
+        "batch_lot_number": "LOT-2026-X93",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, **Ei**, **Milch**, Salz. Mindestens haltbar bis: 26.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100157",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7407",
+        "batch_lot_number": "LOT-2026-X68",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja",
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: RIOBA Espresso Beans. Składniki: Woda, **Soja**, **Nüsse**, Sól. Najlepiej spożyć przed: 31.10.2026."
+    },
+    {
+        "image_id": "400222100158",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7354",
+        "batch_lot_number": "LOT-2026-X92",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: RIOBA Espresso Beans. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 24.11.2026."
+    },
+    {
+        "image_id": "400222100159",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8039",
+        "batch_lot_number": "LOT-2026-X83",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Premium Basmati Rice. Składniki: Woda, **Gluten**, **Milch**, Sól. Najlepiej spożyć przed: 11.10.2026."
+    },
+    {
+        "image_id": "400222100160",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7264",
+        "batch_lot_number": "LOT-2026-X23",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Cream Cheese. Ingrédients: Eau, **Ei**, **Nüsse**, Sel. À consommer de préférence avant le: 22.09.2026."
+    },
+    {
+        "image_id": "400222100161",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5044",
+        "batch_lot_number": "LOT-2026-X50",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Cream Cheese. Ingrédients: Eau, **Nüsse**, Sel. À consommer de préférence avant le: 17.11.2026."
+    },
+    {
+        "image_id": "400222100162",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-9168",
+        "batch_lot_number": "LOT-2026-X60",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, **Gluten**, Salz. Mindestens haltbar bis: 04.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100163",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5487",
+        "batch_lot_number": "LOT-2026-X74",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, **Nüsse**, Gluten, Salz. Mindestens haltbar bis: 03.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100164",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-6090",
+        "batch_lot_number": "LOT-2026-X14",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, **Ei**, **Gluten**, Sól. Najlepiej spożyć przed: 14.09.2026."
+    },
+    {
+        "image_id": "400222100165",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5771",
+        "batch_lot_number": "LOT-2026-X20",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Frozen Atlantic Salmon. Ingrédients: Eau, **Soja**, Sel. À consommer de préférence avant le: 13.10.2026."
+    },
+    {
+        "image_id": "400222100166",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5730",
+        "batch_lot_number": "LOT-2026-X88",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: RIOBA Espresso Beans. Składniki: Woda, **Milch**, Sól. Najlepiej spożyć przed: 23.10.2026."
+    },
+    {
+        "image_id": "400222100167",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-8551",
+        "batch_lot_number": "LOT-2026-X63",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, **Nüsse**, Salz. Mindestens haltbar bis: 21.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100168",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8809",
+        "batch_lot_number": "LOT-2026-X25",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Whole Milk. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 12.09.2026."
+    },
+    {
+        "image_id": "400222100169",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6433",
+        "batch_lot_number": "LOT-2026-X64",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, **Gluten**, **Milch**, Salz. Mindestens haltbar bis: 30.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100170",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-6531",
+        "batch_lot_number": "LOT-2026-X85",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, **Ei**, Sól. Najlepiej spożyć przed: 09.06.2026."
+    },
+    {
+        "image_id": "400222100171",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-6327",
+        "batch_lot_number": "LOT-2026-X21",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, Milch, Sel. À consommer de préférence avant le: 07.10.2026."
+    },
+    {
+        "image_id": "400222100172",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-9982",
+        "batch_lot_number": "LOT-2026-X35",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Cream Cheese. Zutaten: Wasser, **Ei**, Salz. Mindestens haltbar bis: 20.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100173",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5227",
+        "batch_lot_number": "LOT-2026-X75",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 06.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100174",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7146",
+        "batch_lot_number": "LOT-2026-X55",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 16.10.2026."
+    },
+    {
+        "image_id": "400222100175",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-7497",
+        "batch_lot_number": "LOT-2026-X78",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Premium Basmati Rice. Składniki: Woda, Ei, Sól. Najlepiej spożyć przed: 10.10.2026."
+    },
+    {
+        "image_id": "400222100176",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-7859",
+        "batch_lot_number": "LOT-2026-X29",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Premium Basmati Rice. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 27.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100177",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6158",
+        "batch_lot_number": "LOT-2026-X23",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Cream Cheese. Zutaten: Wasser, **Ei**, **Nüsse**, Salz. Mindestens haltbar bis: 24.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100178",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5324",
+        "batch_lot_number": "LOT-2026-X86",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Fine Life Chopped Tomatoes. Zutaten: Wasser, **Ei**, **Milch**, Salz. Mindestens haltbar bis: 06.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100179",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6927",
+        "batch_lot_number": "LOT-2026-X34",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: RIOBA Espresso Beans. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 16.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100180",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-9805",
+        "batch_lot_number": "LOT-2026-X88",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, **Gluten**, **Soja**, Sel. À consommer de préférence avant le: 04.09.2026."
+    },
+    {
+        "image_id": "400222100181",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-9574",
+        "batch_lot_number": "LOT-2026-X24",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Frozen Atlantic Salmon. Ingrédients: Eau, **Soja**, Sel. À consommer de préférence avant le: 01.11.2026."
+    },
+    {
+        "image_id": "400222100182",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8902",
+        "batch_lot_number": "LOT-2026-X92",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Premium Basmati Rice. Ingrédients: Eau, **Soja**, Sel. À consommer de préférence avant le: 21.09.2026."
+    },
+    {
+        "image_id": "400222100183",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-6310",
+        "batch_lot_number": "LOT-2026-X63",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: RIOBA Espresso Beans. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 06.09.2026."
+    },
+    {
+        "image_id": "400222100184",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6605",
+        "batch_lot_number": "LOT-2026-X33",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, **Ei**, Salz. Mindestens haltbar bis: 15.10.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100185",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6414",
+        "batch_lot_number": "LOT-2026-X62",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, Ei, Gluten, Salz. Mindestens haltbar bis: 19.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100186",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5385",
+        "batch_lot_number": "LOT-2026-X17",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Fine Life Chopped Tomatoes. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 23.09.2026."
+    },
+    {
+        "image_id": "400222100187",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-8468",
+        "batch_lot_number": "LOT-2026-X26",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Milch"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Whole Milk. Składniki: Woda, **Ei**, **Milch**, Sól. Najlepiej spożyć przed: 26.09.2026."
+    },
+    {
+        "image_id": "400222100188",
+        "product_name": "METRO Chef Cream Cheese",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7062",
+        "batch_lot_number": "LOT-2026-X12",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Cream Cheese. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 23.09.2026."
+    },
+    {
+        "image_id": "400222100189",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-6319",
+        "batch_lot_number": "LOT-2026-X66",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, Nüsse, Sól. Najlepiej spożyć przed: 15.11.2026."
+    },
+    {
+        "image_id": "400222100190",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5094",
+        "batch_lot_number": "LOT-2026-X59",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, **Nüsse**, Sól. Najlepiej spożyć przed: 15.09.2026."
+    },
+    {
+        "image_id": "400222100191",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-8981",
+        "batch_lot_number": "LOT-2026-X15",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Fine Life Chopped Tomatoes. Ingrédients: Eau, Ei, Sel. À consommer de préférence avant le: 09.11.2026."
+    },
+    {
+        "image_id": "400222100192",
+        "product_name": "RIOBA Espresso Beans",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-6437",
+        "batch_lot_number": "LOT-2026-X80",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Ei",
+            "Gluten"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: RIOBA Espresso Beans. Zutaten: Wasser, Ei, **Gluten**, Salz. Mindestens haltbar bis: 01.11.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100193",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5745",
+        "batch_lot_number": "LOT-2026-X30",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Chef Frozen Atlantic Salmon. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 10.09.2026."
+    },
+    {
+        "image_id": "400222100194",
+        "product_name": "METRO Premium Basmati Rice",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-5979",
+        "batch_lot_number": "LOT-2026-X73",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Premium Basmati Rice. Składniki: Woda, Keine, Sól. Najlepiej spożyć przed: 25.11.2026."
+    },
+    {
+        "image_id": "400222100195",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-5495",
+        "batch_lot_number": "LOT-2026-X87",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Whole Milk. Zutaten: Wasser, Keine, Salz. Mindestens haltbar bis: 14.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100196",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "PL",
+        "supplier_id": "SUPP-9614",
+        "batch_lot_number": "LOT-2026-X60",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Nüsse"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Polska. Produkt: METRO Fine Life Chopped Tomatoes. Składniki: Woda, **Nüsse**, Sól. Najlepiej spożyć przed: 05.07.2026."
+    },
+    {
+        "image_id": "400222100197",
+        "product_name": "METRO Fine Life Chopped Tomatoes",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-7124",
+        "batch_lot_number": "LOT-2026-X41",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Milch",
+            "Ei"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Fine Life Chopped Tomatoes. Ingrédients: Eau, **Milch**, Ei, Sel. À consommer de préférence avant le: 08.10.2026."
+    },
+    {
+        "image_id": "400222100198",
+        "product_name": "METRO Chef Frozen Atlantic Salmon",
+        "destination_country": "DE",
+        "supplier_id": "SUPP-9680",
+        "batch_lot_number": "LOT-2026-X25",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [
+            "Gluten",
+            "Soja"
+        ],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG Quality Assurance. Produkt: METRO Chef Frozen Atlantic Salmon. Zutaten: Wasser, **Gluten**, **Soja**, Salz. Mindestens haltbar bis: 09.09.2026. Hergestellt in Deutschland."
+    },
+    {
+        "image_id": "400222100199",
+        "product_name": "METRO Chef Whole Milk",
+        "destination_country": "FR",
+        "supplier_id": "SUPP-5494",
+        "batch_lot_number": "LOT-2026-X19",
+        "timestamp_inbound": "2026-05-30T16:22:23.341410",
+        "declared_allergens": [],
+        "minimum_shelf_life_days": 90,
+        "extracted_text": "METRO AG France. Produit: METRO Chef Whole Milk. Ingrédients: Eau, Keine, Sel. À consommer de préférence avant le: 29.09.2026."
+    }
+]
